@@ -1,0 +1,12 @@
+5;best;1
+5;founders23;2
+5;design;3
+5;rules;3
+5;necessary;4
+5;space;4
+5;endl;4
+5;purpose;5
+5;hit;6
+5;extremely;7
+5;powerful;7
+5;vote;10
